@@ -1,0 +1,17 @@
+﻿  main.cpp
+d:\support\support\opencv\include\opencv2\core\mat.hpp(2670): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\support\support\opencv\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\support\support\opencv\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\support\support\opencv\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\support\support\opencv\include\opencv2\imgproc.hpp(606): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\file\vs2015file\数据库存取\数据库存取\consoleapplication1\main.cpp(84): warning C4244: 'initializing': conversion from 'my_ulonglong' to 'int', possible loss of data
+h:\file\vs2015file\数据库存取\数据库存取\consoleapplication1\main.cpp(179): warning C4309: '=': truncation of constant value
+h:\file\vs2015file\数据库存取\数据库存取\consoleapplication1\main.cpp(254): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+h:\file\vs2015file\数据库存取\数据库存取\consoleapplication1\main.cpp(370): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+h:\file\vs2015file\数据库存取\数据库存取\consoleapplication1\main.cpp(371): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+h:\file\vs2015file\数据库存取\数据库存取\consoleapplication1\main.cpp(378): warning C4305: '-=': truncation from 'double' to 'float'
+h:\file\vs2015file\数据库存取\数据库存取\consoleapplication1\main.cpp(381): warning C4305: '+=': truncation from 'double' to 'float'
+h:\file\vs2015file\数据库存取\数据库存取\consoleapplication1\main.cpp(393): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+h:\file\vs2015file\数据库存取\数据库存取\consoleapplication1\main.cpp(397): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+  ConsoleApplication1.vcxproj -> H:\File\VS2015File\数据库存取\数据库存取\x64\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> H:\File\VS2015File\数据库存取\数据库存取\x64\Debug\ConsoleApplication1.pdb (Full PDB)

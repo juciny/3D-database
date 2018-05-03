@@ -1,0 +1,6 @@
+﻿  main.cpp
+h:\file\vs2015file\consoleapplication1\consoleapplication1\main.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+h:\file\vs2015file\consoleapplication1\consoleapplication1\main.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+h:\file\vs2015file\consoleapplication1\consoleapplication1\main.cpp(28): warning C4566: character represented by universal-character-name '\u00A0' cannot be represented in the current code page (936)
+  ConsoleApplication1.vcxproj -> H:\File\VS2015File\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> H:\File\VS2015File\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
